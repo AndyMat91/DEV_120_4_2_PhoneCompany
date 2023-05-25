@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ru.avalon.javapp.devj120.avalontelecom"},{"l":"ru.avalon.javapp.devj120.avalontelecom.lists"},{"l":"ru.avalon.javapp.devj120.avalontelecom.models"},{"l":"ru.avalon.javapp.devj120.avalontelecom.ui"}]

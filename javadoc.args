@@ -1,0 +1,8 @@
+-sourcepath src
+-d doc
+-private
+-windowtitle "Avalon Telecom Ltd. client management system"
+ru.avalon.javapp.devj120.avalontelecom
+ru.avalon.javapp.devj120.avalontelecom.lists
+ru.avalon.javapp.devj120.avalontelecom.models
+ru.avalon.javapp.devj120.avalontelecom.ui
